@@ -1,6 +1,7 @@
 # YouTube-Proxy
 Exploring YouTube Access: Proxies and Solutions.
-![image](https://github.com/user-attachments/assets/b6a79c73-219f-468f-8d1c-1a7d630df365)
+
+![image](https://github.com/user-attachments/assets/d17e503e-59c1-46ba-b94f-5bed58100c57)
 
 YouTube, established on February 14th, 2005 by former PayPal employees Steve Chen, Chad Hurley, and Jawed Karim, stands as the largest global video-sharing platform. Offering a diverse range of content including entertainment, education, and music, the platform is utilized by over two billion monthly active users. For content creators, marketers, and viewers, YouTube serves as a pivotal avenue for creativity and information. Despite its vast reach, certain content access is sometimes restricted.
 
@@ -94,7 +95,8 @@ Certain proxies enhance video quality by directing traffic through optimized ser
 
 - For Chrome, access Settings > System > Proxy settings.
 - For Firefox, navigate to Options > Network Settings > Manual configuration.
-![image](https://github.com/user-attachments/assets/b5ed56c2-a628-4d0e-ab65-1d0505254665)
+![image](https://github.com/user-attachments/assets/a7ea24b2-b410-49be-b036-ffb1c97a7862)
+
 
 2. Access and Test:
 
